@@ -1,0 +1,2 @@
+You'll need to run these on Jupyter:
+pandas, matplotlib, numpy, openpyxl
