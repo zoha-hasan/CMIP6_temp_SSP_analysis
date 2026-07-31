@@ -51,11 +51,11 @@ Constructed from the two raw historical GEE exports (NASA GDDP historical and ER
 ---
 
 ### `Future Data`
-Constructed from the two raw future GEE CSV exports (SSP2-4.5 and SSP5-8.5), pivoted and filtered into four sheets.
+Constructed from the two raw future GEE CSV exports (SSP2-4.5 and SSP5-8.5), pivoted and filtered into four sheets. Rows = dates, columns = model names
 
 | Sheet Name | Contents |
 |---|---|
-| `sorted mid 2-4.5` | Wide-format daily matrix for SSP2-4.5, 2040–2050. Rows = dates, columns = model names. |
+| `sorted mid 2-4.5` | Wide-format daily matrix for SSP2-4.5, 2040–2050. |
 | `sorted long 2-4.5` | Wide-format daily matrix for SSP2-4.5, 2070–2080. |
 | `sorted mid 5-8.5` | Wide-format daily matrix for SSP5-8.5, 2040–2050. |
 | `sorted long 5-8.5` | Wide-format daily matrix for SSP5-8.5, 2070–2080. |
